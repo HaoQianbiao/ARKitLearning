@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "12629C66-4450-45F5-9D2E-231D6A28F545"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            uuid = "EB57C5A8-0FA8-4216-8AA6-9C717B60FBFD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1"
+            scope = "1"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5E5D561E-9240-4315-9F1B-6B21A5AC866A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ARKit test/ARJudgeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "renderer(_:didUpdate:for:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5E5D561E-9240-4315-9F1B-6B21A5AC866A - b62de5945612f71c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARKit_test.ARJudgeViewController.renderer(_: __C.SCNSceneRenderer, didUpdate: __C.SCNNode, for: __C.ARAnchor) -&gt; ()"
+                  moduleName = "ARKit test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bytedance/Documents/ARKit%20test/ARKit%20test/ARJudgeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "3480">
+               </Location>
+               <Location
+                  uuid = "5E5D561E-9240-4315-9F1B-6B21A5AC866A - b62de5945612f71c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARKit_test.ARJudgeViewController.renderer(_: __C.SCNSceneRenderer, didUpdate: __C.SCNNode, for: __C.ARAnchor) -&gt; ()"
+                  moduleName = "ARKit test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bytedance/Documents/ARKit%20test/ARKit%20test/ARJudgeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "3484">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
